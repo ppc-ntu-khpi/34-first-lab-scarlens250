@@ -1,2 +1,2 @@
 Задание №1-2 + скрины работы
-![task1-2+screen](https://user-images.githubusercontent.com/74828654/99884971-c042d080-2c42-11eb-892c-010b61128ad6.png)
+![task 1-2 screen log](https://user-images.githubusercontent.com/74828654/99885144-e6b53b80-2c43-11eb-873d-c3b69641abbc.png)
